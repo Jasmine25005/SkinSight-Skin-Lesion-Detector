@@ -1,7 +1,7 @@
 <h1 align="center">🧠 SkinSight – AI Skin Lesion Detector & Classifier</h1>
 
 <p align="center">
-  <img src="assets/Main.png" width="600"/>
+  <img src="assets/Main.jpg" width="1000"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 ## 📽️ Demo
 
 <p align="center">
-  <img src="assets/Demo.gif" width="600"/>
+  <img src="assets/Demo.gif" width="800"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 ## 🖥️ App Interface
 
 <p align="center">
-  <img src="assets/app.png" width="600"/>
+  <img src="assets/app.jpg" width="800"/>
 </p>
 
 ---
@@ -55,8 +55,8 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 ### <kbd>1️⃣ Segmentation – U-Net</kbd>
 
 <p>
-  <img src="assets/Seg1.png" width="300"/>
-  <img src="assets/Seg2.png" width="300"/>
+  <img src="assets/Seg1.jpg" width="600"/>
+  <img src="assets/Seg2.jpg" width="600"/>
 </p>
 
 - **Input**: Original dermatoscopic image  
@@ -68,7 +68,7 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 ### <kbd>2️⃣ Object Detection – YOLOv8</kbd>
 
 <p align="center">
-  <img src="assets/obj.png" width="500"/>
+  <img src="assets/obj.jpg" width="800"/>
 </p>
 
 - **Task**: Detect lesion bounding boxes in image  
@@ -80,7 +80,7 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 ### <kbd>3️⃣ Classification – ResNet50 / VGG16</kbd>
 
 <p align="center">
-  <img src="assets/ClsResult.png" width="500"/>
+  <img src="assets/ClsResult.jpg" width="800"/>
 </p>
 
 - **Task**: Classify lesion into one of 7 types  
@@ -92,7 +92,7 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 ### <kbd>4️⃣ User Interface</kbd>
 
 <p align="center">
-  <img src="assets/insertimg.png" width="500"/>
+  <img src="assets/insertimg.jpg" width="500"/>
 </p>
 
 - User uploads image  
