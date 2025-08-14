@@ -17,12 +17,10 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 ---
 
 ## 📽️ Demo
-
 <p align="center">
-  <img src="assets/Demo.gif" width="800"/>
+  🎬 <a href="https://drive.google.com/file/d/1kF2KPf4Nm-2C5Ma5wmeLVSF0YA-Ppwbp/view?usp=drive_link" target="_blank">Watch the demo video on Google Drive</a>
 </p>
 
----
 
 ## 🖥️ App Interface
 
