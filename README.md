@@ -115,7 +115,7 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 
 - **🧪 Rania Elsayed** — Segmentation using U-Net and mask preprocessing
 - **🔍 Jasmine Mohamed** — Object Detection (YOLOv8) & full pipeline integration in Streamlit
-- **📊 Nesma Nasser** — Classification using ResNet50 analysis and evaluation
+- **📊 Nesma Nasser** — Data Analysis and Preprocessing & Classification using ResNet50 analysis and evaluation
 - **🧠 Bassant Elsayed** — Classification model using VGG16 / MobileNetv2 and data balancing
 
 ---
