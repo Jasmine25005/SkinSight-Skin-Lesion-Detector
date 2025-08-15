@@ -34,7 +34,7 @@ It detects, segments, and classifies skin lesions in dermatoscopic images using 
 
 - **Name**: HAM10000  
 - **Images**: 10,015 dermatoscopic images  
-- **Classes**: 7 lesion types  
+- **Classes**: 7 lesion types-> Melanocytic nevi, Basal cell carcinoma, Melanoma, Vascular lesions, Dermatofibroma, Benign keratosis-like lesions, Actinic keratose.
 - **Sources**:
   - [HAM10000 Official](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
   - [Lesion Segmentations](https://www.kaggle.com/datasets/tschandl/ham10000-lesion-segmentations)
